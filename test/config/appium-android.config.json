@@ -1,0 +1,7 @@
+{
+	"platformName": "Android",
+	"appium:platformVersion": "11",
+	"appium:deviceName": "Android Emulator",
+	"appium:app": "/Users/aphk/WebstormProjects/wdio_mobile_testing_example/app/android/ApiDemos-debug.apk",
+	"appium:automationName": "UIAutomator2"
+}
